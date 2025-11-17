@@ -1,8 +1,7 @@
-# CYCLEGAN_REAL_TO_GHIBLI
+# CycleGAN for Real ↔ Ghibli Image Translation
 
 Here's the link to my notebook with all the outputs and the visualizations of the results : https://colab.research.google.com/drive/1PkKxciuNz02ytoGnloDP9ZB0Ri85bMGq#scrollTo=SBFPMzZw77PB
 
-# CycleGAN for Real ↔ Ghibli Image Translation
 
 ## Overview
 This project implements a full **CycleGAN** architecture to translate images between two domains:
